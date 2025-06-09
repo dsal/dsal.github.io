@@ -18,6 +18,6 @@ DSAL Learning Zone is a curated space dedicated to exploring a wide range of sci
 
 Feel free to explore the following learning sections:
 
-- [Learning Linux](/linux)  - [Learning Python](/python)  - [Learning C++](/cpp)  - [Learning Computer Vision](/opencv)  - [Learning Machine Learning](/ml)  - [Learning Deep Learning](/dl)  - [Learning Remote Sensing](/rs)
+[Learning Linux](/linux)      [Learning Python](/python)      [Learning C++](/cpp)      [Learning Computer Vision](/opencv)      [Learning Machine Learning](/ml)      [Learning Deep Learning](/dl)      [Learning Remote Sensing](/rs)
 
 Thank you for visiting, and I hope you find these resources helpful in your learning journey.
