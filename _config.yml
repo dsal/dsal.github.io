@@ -1,1 +1,22 @@
+# -------------------------
+# Site settings
+# -------------------------
+:contentReference[oaicite:1]{index=1}
+:contentReference[oaicite:2]{index=2}
+:contentReference[oaicite:3]{index=3}
+# Optional: set base URL if hosted from a subdirectory (not needed for user site)
+# baseurl: ""
+# Optional: site URL
+# url: "https://dsal.github.io"
 
+# -------------------------
+# Author info (optional)
+# -------------------------
+author:
+  :contentReference[oaicite:4]{index=4}
+  :contentReference[oaicite:5]{index=5}
+
+# -------------------------
+# Jekyll processing (optional)
+# -------------------------
+# markdown: kramdown
