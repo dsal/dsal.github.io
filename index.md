@@ -27,6 +27,6 @@ Feel free to explore the following learning sections:
 
 Thank you for visiting, and I hope you find these resources helpful in your learning journey.
 If you have any questions or would like to get in touch, please feel free to contact me:
-**Email:** [d.salehi.1992@gmail.com](mailto:d.salehi.1992@gmail.com)
-**GitHub:** [github.com/dsal](https://github.com/dsal)
-**LinkedIn:** [linkedin.com/in/dsalehi1992](https://www.linkedin.com/in/dsalehi1992/)
+- **Email:** [d.salehi.1992@gmail.com](mailto:d.salehi.1992@gmail.com)
+- **GitHub:** [github.com/dsal](https://github.com/dsal)
+- **LinkedIn:** [linkedin.com/in/dsalehi1992](https://www.linkedin.com/in/dsalehi1992/)
