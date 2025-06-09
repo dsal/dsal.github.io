@@ -1,7 +1,10 @@
 ---
+# In _config.yml
 title: 👋 Welcome to My GitHub Pages
+theme: jekyll-theme-cayman
+
 ---
-theme: cayman
+
 # Hello, I'm [Your Name] 👋
 
 Welcome to my personal GitHub Pages site, built using Markdown and GitHub Pages.
