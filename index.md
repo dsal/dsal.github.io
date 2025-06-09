@@ -1,5 +1,3 @@
-this is the code
-
 ---
 layout: default
 title: Home
