@@ -1,7 +1,7 @@
 ---
 title: 👋 Welcome to My GitHub Pages
 ---
-
+theme: cayman
 # Hello, I'm [Your Name] 👋
 
 Welcome to my personal GitHub Pages site, built using Markdown and GitHub Pages.
