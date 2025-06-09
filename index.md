@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="float: right; width: 450px; margin: 40px; border-radius: 20px; overflow: hidden;">
+<div style="position: absolute; top: 40px; right: 0; width: 450px; border-radius: 20px; overflow: hidden;">
   <img src="/assets/images/GitHub Cover 2.png" alt="Ahmad Salehi" style="width: 100%; height: auto;">
 </div>
 
