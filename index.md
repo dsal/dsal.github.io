@@ -7,9 +7,9 @@ title: Home
   <img src="/assets/images/GitHub Cover 2.png" alt="Ahmad Salehi" style="width: 100%; height: auto;">
 </div>
 
-# Welcome to the DSAL Learning Zone
+# Hello, I'm **Ahmad Salehi**
 
-Hello, I'm **Ahmad Salehi**. Welcome to the DSAL Learning Zone—a curated space dedicated to exploring a wide range of scientific and technical topics. This platform serves as a resource hub for students, researchers, and professionals interested in:
+Welcome to the DSAL Learning Zone—a curated space dedicated to exploring a wide range of scientific and technical topics. This platform serves as a resource hub for students, researchers, and professionals interested in:
 
 - **Data Analysis and Visualization**
 - **Artificial Intelligence**
