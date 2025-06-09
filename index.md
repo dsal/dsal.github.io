@@ -16,7 +16,7 @@ Feel free to explore the following learning sections:
 - [Learning Linux](/linux)
 - [Learning Python](/python)
 - [Learning C++](/cpp)
-- [Learning Computer Vision](/opencv)
+- [Learning Image Processing and Computer Vision](/opencv)
 - [Learning Machine Learning](/ml)
 - [Learning Deep Learning](/dl)
 - [Learning Remote Sensing](/rs)
