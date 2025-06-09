@@ -7,7 +7,7 @@ show_downloads: false
 profile_image:
   enabled: true
   path: "/assets/images/GitHub Cover 2.png"  # Update this to your actual image path
-  alt: "Your Name"
+  alt: "Ahmad Salehi"
   width: "200px"
   class: "profile-pic"  # For CSS styling
   style: "float: right; border-radius: 50%; margin: 20px; border: 2px solid #2c3e50;"
