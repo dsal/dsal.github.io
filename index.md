@@ -8,3 +8,4 @@ title: Home
 This is the homepage of my GitHub Pages site using the Cayman theme.
 
 [About Page](/about)
+[Linux Resources](/linux)
