@@ -25,6 +25,5 @@ Feel free to explore the following learning sections:
 - [Learning Machine Learning](/ml)
 - [Learning Deep Learning](/dl)
 - [Learning Remote Sensing](/rs)
-- [Learning Power BI](/pbi)
 
 Thank you for visiting, and I hope you find these resources helpful in your learning journey.
