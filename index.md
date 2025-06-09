@@ -1,5 +1,10 @@
 ---
-title: "👋 Welcome to My GitHub Pages"
+layout: default
+title: Home
 ---
-# Hello, I’m Ahmad Salehi 👋
-...
+
+# Welcome to My Site
+
+This is the homepage of my GitHub Pages site using the Cayman theme.
+
+[About Page](/about)
