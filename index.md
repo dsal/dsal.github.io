@@ -12,8 +12,6 @@ title: Home
 DSAL Learning Zone is a curated space dedicated to exploring a wide range of scientific and technical topics. This platform serves as a resource hub for students, researchers, and professionals interested in: **Data Analysis and Visualization, Artificial Intelligence, Geospatial Data Analysis and Remote Sensing**.
 
 Feel free to explore the following learning sections:
-
-- [Learning Linux](/linux)
 - [Learning Python](/python)
 - [Learning C++](/cpp)
 - [Learning Image Processing and Computer Vision](/opencv)
