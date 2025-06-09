@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to the DSAL Learning Zone
+title: Home
 ---
 
 <div style="float: right; width: 450px; margin: 40px; border-radius: 20px; overflow: hidden;">
