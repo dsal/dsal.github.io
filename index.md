@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/images/GitHub cover.png" alt="Ahmad Salehi" style="width:600px; border-radius:75%; margin:80px; float:right;">
+<div style="float: right; width: 300px; margin: 40px; border-radius: 20px; overflow: hidden;">
+  <img src="/assets/images/GitHub cover.png" alt="Ahmad Salehi" style="width: 100%; height: auto;">
+</div>
 
 # Welcome to the DSAL Learning Zone
 
