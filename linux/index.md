@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Learning Linux
+permalink: /linux/
 ---
 
 # Introduction: What is Linux and How to Install It on a Virtual Machine
