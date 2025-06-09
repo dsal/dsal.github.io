@@ -13,8 +13,7 @@ DSAL Learning Zone is a curated space dedicated to exploring a wide range of sci
 
 - **Data Analysis and Visualization**
 - **Artificial Intelligence**
-- **Geospatial Data Analysis**
-- **Remote Sensing**
+- **Geospatial Data Analysis and Remote Sensing**
 
 Feel free to explore the following learning sections:
 
