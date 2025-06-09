@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Learning Linux
+permalink: /linux/
 ---
 
 <div style="float: right; width: 450px; margin: 40px; border-radius: 20px; overflow: hidden;">
