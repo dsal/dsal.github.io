@@ -15,9 +15,6 @@ Feel free to explore the following learning sections:
 - [Learning Remote Sensing](/rs)
 - [Learning Image Processing and Computer Vision](/opencv)
 - [Learning Machine Learning](/ml)
-- [Learning Deep Learning](/dl)
-- [Learning Python](/python)
-- [Learning C++](/cpp)
 
 Thank you for visiting, and I hope you find these resources helpful in your learning journey.
 If you have any questions or would like to get in touch, please feel free to contact me:
