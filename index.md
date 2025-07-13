@@ -2,10 +2,9 @@
 layout: default
 title: Home
 ---
-
+# Hello, I'm **Ahmad Salehi**
 https://github.com/dsal/dsal.github.io/issues/1#issue-3226173967
 
-# Hello, I'm **Ahmad Salehi**
 I’m a Remote Sensing Specialist with a strong academic background and hands-on experience in both satellite and in-situ data processing. I have a deep passion for Earth Observation and enjoy working at the intersection of science, technology, and environmental applications.
 
 My academic journey began with a Bachelor's degree in Electrical Engineering, where I focused on electronics and communication systems. I later completed a Master’s degree in Space Sciences and Technologies – Physics for Space Observation.
