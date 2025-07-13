@@ -3,13 +3,7 @@ layout: default
 title: Home
 ---
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/watch?v=cecBMwx-_dc" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        allowfullscreen>
-</iframe>
+[Ahmad Salehi a self-introduction video (3 min) (1).mp4](https://github.com/your-username/dsal.github.io/blob/main/media/self_intro.mp4
 
 # Hello, I'm **Ahmad Salehi**
 
