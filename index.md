@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[![Watch the video](https://img.youtube.com/vi/cecBMwx-_dc/hqdefault.jpg)](https://www.youtube.com/watch?v=cecBMwx-_dc)
+[![Watch Ahmad Salehi's Self-Introduction](https://img.youtube.com/vi/cecBMwx-_dc/hqdefault.jpg)](https://github.com/dsal/dsal.github.io/releases/download/Self-introduction/Ahmad.Salehi.a.mp4)
 
 # Hello, I'm **Ahmad Salehi**
 
