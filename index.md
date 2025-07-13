@@ -3,7 +3,10 @@ layout: default
 title: Home
 ---
 
-https://github.com/user-attachments/assets/c220d4bf-e8b1-4b61-9be2-6acfc87b98e8
+<video width="720" height="400" controls>
+  <source src="https://github.com/dsal/dsal.github.io/releases/download/Self-introduction/Ahmad.Salehi.a.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # Hello, I'm **Ahmad Salehi**
 I’m a Remote Sensing Specialist with a strong academic background and hands-on experience in both satellite and in-situ data processing. I have a deep passion for Earth Observation and enjoy working at the intersection of science, technology, and environmental applications.
