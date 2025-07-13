@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 # Hello, I'm **Ahmad Salehi**
-https://github.com/dsal/dsal.github.io/issues/1#issue-3226173967
+
+https://github.com/user-attachments/assets/cc49f6ad-bc75-45df-975a-4fb488e12cfd
 
 I’m a Remote Sensing Specialist with a strong academic background and hands-on experience in both satellite and in-situ data processing. I have a deep passion for Earth Observation and enjoy working at the intersection of science, technology, and environmental applications.
 
