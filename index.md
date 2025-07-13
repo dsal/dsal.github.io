@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-<video width="720" height="400" controls>
-  <source src="https://github.com/user-attachments/assets/aec1b14f-c3cf-4ed0-ad15-754697250f6f" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/e99bcf2e-5996-4376-967d-59be15ec4876
 
 # Hello, I'm **Ahmad Salehi**
 I’m a Remote Sensing Specialist with a strong academic background and hands-on experience in both satellite and in-situ data processing. I have a deep passion for Earth Observation and enjoy working at the intersection of science, technology, and environmental applications.
