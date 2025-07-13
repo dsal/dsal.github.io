@@ -4,7 +4,7 @@ title: Home
 ---
 
 <video width="720" height="400" controls>
-  <source src="https://github.com/user-attachments/assets/aec1b14f-c3cf-4ed0-ad15-754697250f6f.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/aec1b14f-c3cf-4ed0-ad15-754697250f6f" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
