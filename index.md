@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Ahmad Salehi a self-introduction video (3 min) (1).mp4](https://github.com/your-username/dsal.github.io/blob/main/media/self_intro.mp4
+[▶️ Watch Ahmad Salehi's Self-Introduction Video](https://www.youtube.com/watch?v=cecBMwx-_dc)
 
 # Hello, I'm **Ahmad Salehi**
 
